@@ -1,0 +1,12 @@
+{
+  "modrepo": [
+    "SmartyGUI": {
+      "ver": "2.2",
+      "file": "smartygui.zip"
+    },
+    "HowManyItems": {
+      "ver": "1",
+      "file": "mod_HMI.jar"
+    }
+  ]
+}
