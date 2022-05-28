@@ -1,0 +1,4 @@
+{
+  "ver": [1, 0, 1],
+  "changelog": "Removed unnecessary group, added updater and mod manager, minor bugfixes, code cleaned"
+}
