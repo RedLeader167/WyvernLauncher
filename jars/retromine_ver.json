@@ -1,0 +1,5 @@
+{
+  "ver": [1,0,0],
+  "names": ["retromine.jar", "rlwjgl.jar", "rlwjgl_util.jar", "rjinput.jar"],
+  "natives": "jnatives_cross.zip"
+}
